@@ -844,3 +844,68 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.atlassian
 2019-06-21 11:24:45,625 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-06-21 11:24:45,627 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-06-21 11:24:45,636 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:04:40,120 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-21 12:05:35,480 [Worker-13: Creating project "practical_lab4"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: upes.devops:practical_lab4:0.0.1-SNAPSHOT @ G:\GitHub\Apache-Maven-using-Eclipse-IDE\practical_lab4\pom.xml.
+2019-06-21 12:05:38,100 [Worker-13: Creating project "practical_lab4"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /practical_lab4/src/main/java
+2019-06-21 12:05:38,102 [Worker-13: Creating project "practical_lab4"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /practical_lab4/src/main/resources
+2019-06-21 12:05:38,104 [Worker-13: Creating project "practical_lab4"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /practical_lab4/src/test/java
+2019-06-21 12:05:38,104 [Worker-13: Creating project "practical_lab4"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /practical_lab4/src/test/resources
+2019-06-21 12:05:40,213 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:05:40,227 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:05:40,230 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:05:40,239 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:25,775 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:25,788 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:25,792 [Worker-16: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:25,803 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:28,103 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:28,112 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:28,115 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:28,125 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:29,337 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.atlassian.mail:atlassian-mail:jar:2.5.15 is missing, no dependency information available
+2019-06-21 12:06:29,387 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:29,395 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:29,398 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:29,408 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:37,373 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:37,392 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:06:37,395 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:06:37,408 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:07:38,693 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.7.1/maven-site-plugin-3.7.1.jar
+2019-06-21 12:07:40,160 [Worker-5: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.7.1/maven-site-plugin-3.7.1.jar
+2019-06-21 12:07:41,069 [Worker-5: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: upes.devops:practical_lab4:0.0.1-SNAPSHOT @ G:\GitHub\Apache-Maven-using-Eclipse-IDE\practical_lab4\pom.xml.
+2019-06-21 12:07:41,378 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:07:41,385 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:07:41,387 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:07:41,398 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:08:01,532 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:08:01,551 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:08:01,553 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:08:01,566 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:08:39,956 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:08:39,964 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:08:39,967 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:08:39,975 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:01,556 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:01,589 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:01,591 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:01,607 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:06,046 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:06,059 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:06,062 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:06,072 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:17,496 [Worker-7: Launching Executing clean in G__GitHub_Apache-Maven-using-Eclipse-IDE_practical_lab4] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\GitHub\Apache-Maven-using-Eclipse-IDE\practical_lab4
+2019-06-21 12:09:17,497 [Worker-7: Launching Executing clean in G__GitHub_Apache-Maven-using-Eclipse-IDE_practical_lab4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-06-21 12:09:22,669 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:22,676 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:22,678 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:22,685 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:28,859 [Worker-11: Launching Executing test in G__GitHub_Apache-Maven-using-Eclipse-IDE_practical_lab4] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\GitHub\Apache-Maven-using-Eclipse-IDE\practical_lab4
+2019-06-21 12:09:28,859 [Worker-11: Launching Executing test in G__GitHub_Apache-Maven-using-Eclipse-IDE_practical_lab4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-06-21 12:09:57,978 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:57,986 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:09:57,988 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:09:57,998 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:10:16,866 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-06-21 12:10:20,787 [Worker-11: Launching practical_lab4] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\GitHub\Apache-Maven-using-Eclipse-IDE\practical_lab4
+2019-06-21 12:10:20,788 [Worker-11: Launching practical_lab4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B site
